@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **NodeJs, ExpressJs, NestJs, MongoDB, SQL Etc..**
 
-- 📫 How to reach me **saneeitas@gmail.com**
+- 📫 How to reach me: **saneeitas@gmail.com**
 
-- ⚡ Fun fact **I love solving problem**
+- ⚡ Fun fact: **I love solving problem**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
