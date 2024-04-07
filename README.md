@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat" alt="saneeitas" /> </p>
 
 - 🔭 I’m a Co-Founder and a CTIO 
-- currently working on [Northino](https://main--northino.netlify.app/) [Pailot]and others..
+- currently working on [Northino](https://main--northino.netlify.app/) and others..
 
 - 🌱 I’m currently learning **NestJs**
 
