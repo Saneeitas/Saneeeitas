@@ -5,7 +5,7 @@
 - 🔭 I’m a Co-Founder and a CTIO 
 - currently working on [Northino](https://main--northino.netlify.app/) and others..
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **NestJs** and  **Spring Boot**
 
 - 💬 Ask me about **NodeJs, ExpressJs, NestJs, MongoDB, SQL Etc..**
 
